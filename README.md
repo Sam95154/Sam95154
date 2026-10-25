@@ -1,127 +1,154 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,50:123B66,100:2563EB&text=SHAIK%20SAMEER%20BASHA&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20%7C%20ANALYTICS%20%7C%20SOFTWARE&descAlignY=59&descSize=14&animation=fadeIn" width="100%" alt="Animated dark blue profile banner"/>
+# `>_` Hello, World!
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=750&lines=Data+Analytics+%7C+Python+%7C+SQL;AI%2FML+%7C+Computer+Vision;Building+useful%2C+data-driven+applications;Learn.+Build.+Improve." alt="Animated introduction"/>
-</a>
+# SAMEER BASHA
 
-<p>
-  <a href="https://github.com/Sam95154"><img src="https://img.shields.io/badge/GitHub-Sam95154-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/shaik-sameer-basha-74a829339"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://shaiksameerbasha.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-</p>
+### AI & DATA SCIENCE | DATA ANALYTICS | SOFTWARE DEVELOPMENT
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+%7C+SQL+%7C+Data+Analytics;Artificial+Intelligence+%26+Machine+Learning;Building+Practical+Software+Solutions" alt="Animated professional introduction" />
 
 *Turning data into insights and ideas into practical solutions.*
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Data_Analytics-2563EB?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analytics"/>
+  <img src="https://img.shields.io/badge/AI%2FML-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML"/>
+  <img src="https://img.shields.io/badge/Web_Development-0F766E?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Web Development"/>
+</p>
+
+<p>
+  <a href="https://github.com/Sam95154">GitHub</a> •
+  <a href="https://www.linkedin.com/in/shaik-sameer-basha-74a829339">LinkedIn</a> •
+  <a href="https://shaiksameerbasha.netlify.app/">Portfolio</a>
+</p>
 
 </div>
 
 ---
 
-## About
+## `01` / ABOUT ME
 
-B.Tech graduate in **Artificial Intelligence & Data Science** from Saveetha School of Engineering, interested in data analytics, artificial intelligence, and software development.
+I'm a B.Tech graduate in **Artificial Intelligence & Data Science** from Saveetha School of Engineering, interested in data analytics, artificial intelligence, and software development.
 
-I enjoy exploring datasets, creating interactive dashboards, and developing applications that solve practical problems.
+I enjoy exploring data, building interactive dashboards, and developing applications that address practical problems.
 
-- **Analytics:** data cleaning, analysis, visualization, and reporting
-- **AI/ML:** machine learning concepts and computer vision
-- **Development:** interactive data apps and web applications
-- **Currently focused on:** growing my project portfolio and strengthening practical engineering skills
+- **Focus:** Data Analytics, AI/ML, Business Intelligence
+- **Programming:** Python, SQL, JavaScript
+- **Data & Visualization:** Pandas, NumPy, Matplotlib, Plotly, Power BI, Excel
+- **Application Development:** Streamlit, Flask, React, Node.js
+- **Mindset:** Continuous learning, experimentation, and practical problem-solving
 
-## Tech Stack
+## `02` / TECHNICAL SKILLS
+
+### Data & Analytics
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,js,react,nodejs,flask,git,github,firebase,tensorflow,pytorch&theme=dark" alt="Technology icons"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+</p>
+
+### AI & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
 </p>
 
-## Featured Work
+### Development & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+## `03` / SELECTED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Finance Tracker Pro
+### 💳 Finance Tracker Pro
 
 A personal finance application for income and expense management, category-wise transaction tracking, and interactive financial visualizations.
 
-**Built with:** Python · Streamlit · Pandas · Plotly
+**Stack:** Python · Streamlit · Pandas · Plotly
 
 </td>
 <td width="50%" valign="top">
 
-### Restaurant Management System
+### 🍽️ Restaurant Management System
 
 A software project focused on digital restaurant operations and management.
 
-**Repository:** [Explore the project](https://github.com/Sam95154/restaurant-system)
+**Repository:** [View Source Code](https://github.com/Sam95154/restaurant-system)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-### IPL Auction Analysis with Player Insights
+### 🏏 IPL Auction Analysis with Player Insights
 
-A data analysis project exploring cricket auction and player information with Python and Power BI dashboards.
+A cricket auction data analysis project using Python and Power BI to explore player information and communicate insights through dashboards.
 
-**Built with:** Python · Power BI · Data Visualization
+**Stack:** Python · Power BI · Data Visualization
 
 </td>
 </tr>
 </table>
 
-## How I Work
+## `04` / CERTIFICATIONS
 
-- **Understand:** clarify the problem and what the result should answer.
-- **Explore:** inspect the data, requirements, and constraints.
-- **Build:** develop a practical solution with suitable tools.
-- **Communicate:** present results through clear visuals, documentation, or a usable application.
-- **Improve:** learn from feedback and iterate.
+- **Oracle:** Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
+- **Forage:** Deloitte Data Analytics Virtual Simulation
+- **Innomatics Research Labs:** Data Analytics Certification
 
-## Certifications
+## `05` / EDUCATION
 
-- Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
-- Deloitte Data Analytics Virtual Simulation — Forage
-- Data Analytics Certification — Innomatics Research Labs
+**Bachelor of Technology — Artificial Intelligence & Data Science**
 
-## Education
+Saveetha School of Engineering, Thandalam, Tamil Nadu
 
-**B.Tech — Artificial Intelligence & Data Science**  
-Saveetha School of Engineering · Thandalam, Tamil Nadu
-
-## GitHub Activity
+## `06` / GITHUB ACTIVITY
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sam95154&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam95154&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sam95154&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam95154&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sam95154&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img width="95%" src="https://streak-stats.demolab.com?user=Sam95154&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
-## Connect
+## `07` / CONNECT
 
 <div align="center">
 
-<a href="https://github.com/Sam95154"><img src="https://img.shields.io/badge/GitHub-View_Work-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/shaik-sameer-basha-74a829339"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-<a href="https://shaiksameerbasha.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/Sam95154">
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/shaik-sameer-basha-74a829339">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="https://shaiksameerbasha.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-View_My_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:2563EB,100:0B1220" width="100%" alt="Decorative footer"/>
 
 *Learn continuously. Build thoughtfully. Deliver meaningful solutions.*
 
